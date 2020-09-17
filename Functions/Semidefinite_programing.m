@@ -1,3 +1,5 @@
+%%% some partss of this code are inspired by the code written by Alison Cheeseman and Jonah Ho
+
 function [M, Xi] = Semidefinite_programing(X_train, triplet_indices, c)
 
 %X_train is row-wise

@@ -1,0 +1,1 @@
+Paste the ORL faces dataset here as 400 (112x92)-pixel jpg images.
